@@ -1,3 +1,3 @@
-#!/usr/bin/with-contenv bashio
+#!/usr/bin/sh
 
 python3 envoy_to_mqtt_json.py
